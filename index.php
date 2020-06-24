@@ -1,5 +1,6 @@
 <<?php 
-	echo "Olá mundo";
+	echo "Olá mundo mudado";
 
-	echo "computador";
+	echo "computador E GIT";
  ?>
+
